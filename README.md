@@ -1,5 +1,18 @@
-This repository contain files for Git Assignment purpose.
+  GNU nano 8.2                                                                                        README.md
 
-See 'Git Part-3 Assinment.pdf' for complete Git part-3 assignment.
 
-Thankyou. 
+^[[A^[[A^[[A[B^[[A^[[B^V^V^[[1;5B^[[B^[[A^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C
+
+
+^[[A^[[A^[[A^[[A^[[B^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[
+
+
+
+
+
+
+[A[A[A[B[A[B[1;5B[B[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+
+[A[A[A[A[B[C[C[C[C[C[C[C[C[
+
